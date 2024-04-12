@@ -1,1 +1,1 @@
-# Steel Plate Defect Prediction (Kaggle Competition)
+# Obesity Risk Prediction (Kaggle Competition)
